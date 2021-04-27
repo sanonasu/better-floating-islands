@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": {
+			"text": "by sanonasu",
+			"color": "gray",
+			"extra": [
+				{
+				"text": "\nv1.0.4 for Minecraft 1.16.2+",
+				"color": "dark_gray"
+				}
+			]
+		}
+	}
+}
